@@ -1,11 +1,24 @@
-Astralith
-
+Background
 Setting
-
 Major Cities/Areas
-
+Astralith
+Dragonkeep
+Grand Chapel
 Orton
-
+Port Aeril
+Highgard
+Northlock
+White Citadel
+Saltmouth Port
+Saltfort
+Derryn's Green
+Farhill
+Redfort
+Wolf Tribe Lands
+Jackal Tribe Lands
+Shark Tribe Lands
+Fisher's Rest
+Piros
 Cultures
 
 Factions
