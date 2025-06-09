@@ -1,10 +1,10 @@
 Background
 Setting
 Major Cities/Areas
-Astralith-The urban capital of the kingdom sits on the mouth of the Iron River where it meets the Shattered Bay
-Dragonkeep
-Grand Chapel
-Orton
+Astralith-The urban capital sits on the mouth of the Iron River where it meets the Shattered Bay.  It is a crossroads of the many areas in the kingdom, blending into a dynamic, progressive city where trade and culture flourish.  Those from the capital typically see themselves as superior to the others and have a great rivalry with the other large cities of Orton and Saltmouth Port.
+Dragonkeep-A fortified island that houses the royal family and its treasures.  An ornate bridge used for ceremony connects the fortress to the main governing buildings in Astralith on the main land.
+Grand Chapel-An ancient church in the middle of the Shattered Bay which serves as the site of coronation and the seat of the Grand Cleric.
+Orton-The deep city of Orton extends deep into the surrounding mountains, masking its true size and prosperity.  Dwarves and their mining companies mostly rule the city, but its proximity to Qiznaj and Port Aeril also mean there is diversity in the brokers, traders, 
 Port Aeril
 Goldfort
 Highgard
