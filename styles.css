@@ -35,16 +35,19 @@ p {
 body {
  display: flex;
  flex-direction: column;
-  }
+}
 
 h1, h2, h3, h4 {
   color: #58180D;
   font-family: "Baskerville Old Face";
   margin-bottom: 5px;
-
 }
 
 h3 {
   line-height: .995em;
   border-bottom: 2px solid #C0AD6A;
 }
+
+.accent-row {
+	background-color: "#E0E5C1";
+}	
