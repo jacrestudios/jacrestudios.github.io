@@ -2,6 +2,7 @@ General Story
 Act I
 The players escape the Red General after rebels save the town of Farhill from his occupation.  From here they make their way through the Skragrikt hills to the Rebel's Camp, either through a direct path, being captured by bounty hunters or Wolf Tribe barbarians.  The rebels ask the players for help infiltrating the city of Highgard, where the White General is said to be doing his next conscription drive.  The fastest way there is along the Wide Road through Derryn's Green where a large hole is being excavated for the Archmage's plan to stop the meteor, angering the locals.  Some Stuff happens here.  Once Highgard some stuff happens and the players are directed towards the capital of Astralith.  Once in Astralith they learn about the giant laser contraption being built.
 Act II
+A reason to travel to Northlock, Orton, Saltmouth, and Skragrikt.  White Citadel, Goldfort, Saltfort, Redfort
 Act III
 
 Background
@@ -10,7 +11,7 @@ Major Cities/Areas
 Astralith-The urban capital sits on the mouth of the Iron River where it meets the Shattered Bay.  It is a crossroads of the many areas in the kingdom, blending into a dynamic, progressive city where trade and culture flourish.  Those from the capital typically see themselves as superior to the others and have a great rivalry with the other large cities of Orton and Saltmouth Port.
 Dragonkeep-A fortified island that houses the royal family and its treasures.  An ornate bridge used for ceremony connects the fortress to the main governing buildings in Astralith on the main land.
 Grand Chapel-An ancient church in the middle of the Shattered Bay which serves as the site of coronation and the seat of the Grand Cleric.
-Orton-The deep city of Orton extends deep into the surrounding mountains, masking its true size and prosperity.  Dwarves and their mining companies mostly rule the city, but its proximity to Qiznaj and Port Aeril also mean there is diversity in the brokers, traders, 
+Orton-The deep city of Orton extends deep into the surrounding mountains, masking its true size and prosperity.  Dwarves and their mining companies mostly rule the city, but its proximity to Qiznaj and Port Aeril also mean there is diversity in the brokers, traders, thieves and assassins that cover the underground streets of the city.
 Port Aeril
 Goldfort
 Highgard
